@@ -4,6 +4,8 @@
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.5.7",
+    "lucide": "^0.394.0",
+    "lucide-static": "^0.394.0",
     "preline": "^2.3.0"
   }
 }
